@@ -6,7 +6,7 @@ import Colors from '../constants/colors';
 export default function Header() {
     return (
       <View style={styles.header}>
-          <Text style={styles.headerTitle}>Guess a Number!</Text>       
+          <Text style={styles.headerTitle}>Guess a Number Now</Text>       
       </View>
     );
   }
